@@ -92,6 +92,19 @@ public class HomeActivity extends Activity {
     }
   };
 
+  private final UpdateListener<String> timeUpdateListener =
+          new UpdateListener<String>() {
+            @Override
+            public void onUpdate(String time) {
+              if (time != "") {
+                timeView.setText(time);
+                timeView.setVisibility(View.VISIBLE);
+              }else{
+                timeView.setVisibility(View.GONE);
+              }
+            }
+          };
+
   /**
    * The listener used to populate the UI with body measurements.
    */
@@ -108,6 +121,7 @@ public class HomeActivity extends Activity {
         }
       };
 
+  private TextView timeView;
   private TextView temperatureView;
   private TextView weatherSummaryView;
   private TextView precipitationView;
@@ -115,6 +129,7 @@ public class HomeActivity extends Activity {
   private TextView[] newsViews = new TextView[NEWS_VIEW_IDS.length];
   private BodyView bodyView;
 
+  private  CTA time;
   private Weather weather;
   private News news;
   private Body body;
@@ -124,7 +139,7 @@ public class HomeActivity extends Activity {
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_home);
-
+    timeView = (TextView) findViewById(R.id.Time);
     temperatureView = (TextView) findViewById(R.id.temperature);
     weatherSummaryView = (TextView) findViewById(R.id.weather_summary);
     precipitationView = (TextView) findViewById(R.id.precipitation);
@@ -133,7 +148,7 @@ public class HomeActivity extends Activity {
       newsViews[i] = (TextView) findViewById(NEWS_VIEW_IDS[i]);
     }
     bodyView = (BodyView) findViewById(R.id.body);
-
+    time = new CTA(timeUpdateListener);
     weather = new Weather(weatherUpdateListener);
     news = new News(newsUpdateListener);
     body = new Body(bodyUpdateListener);
@@ -143,6 +158,7 @@ public class HomeActivity extends Activity {
   @Override
   protected void onStart() {
     super.onStart();
+    time.start();
     weather.start();
     news.start();
     body.start();
@@ -150,6 +166,7 @@ public class HomeActivity extends Activity {
 
   @Override
   protected void onStop() {
+    time.stop();
     weather.stop();
     news.stop();
     body.stop();

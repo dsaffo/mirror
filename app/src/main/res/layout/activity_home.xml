@@ -137,4 +137,13 @@
       android:layout_alignParentRight="true"
       android:layout_alignParentBottom="true"
       android:layout_marginBottom="@dimen/intra_group_margin"/>
+
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_above="@+id/body"
+      android:layout_toStartOf="@+id/day_of_the_week"
+      android:layout_marginBottom="50dp"
+      android:id="@+id/Time"
+      android:text="0" />
 </RelativeLayout>
