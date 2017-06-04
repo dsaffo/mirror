@@ -1,6 +1,6 @@
 # Smart Mirror
 
-This is my personal take on an android based smart mirror moffied from maxbbraun here:https://github.com/maxbbraun/mirror
+This is my personal take on an android based smart mirror modified from maxbbraun here:https://github.com/maxbbraun/mirror
 
 # Features
   - Weather
