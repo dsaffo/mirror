@@ -24,7 +24,7 @@ public class Weather extends DataUpdater<WeatherData> {
   /**
    * The key used for the Dark Sky API.
    */
-  private static final String DARK_SKY_API_KEY = "1dea90abf656451da6d41f25b4fd2792";
+  private static final String DARK_SKY_API_KEY = "XXXXXXXXXXXXXXXXXXXX";
 
   /**
    * The time in milliseconds between API calls to update the weather.

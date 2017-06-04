@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\dsaffo\Documents\mirrorLocal\app\build\intermediates\exploded-aar\com.android.support\leanback-v17\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98f7825e3a39e949ed0cb790326d1f584ab8fcc1">
+        <dex dex="C:\Users\dsaffo\Documents\mirrorLocal\app\build\intermediates\pre-dexed\debug\com.android.support-leanback-v17-23.4.0_a121d3f3bf235a3469075b32203c3fe5859baa20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dsaffo\Documents\mirrorLocal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\dsaffo\Documents\mirrorLocal\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_71da93338fc4ff2b19ef30595fbae724751a376b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dsaffo\Documents\mirrorLocal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\dsaffo\Documents\mirrorLocal\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_439f75b2114f95d12077285ab89ecf36d317bada.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dsaffo\Documents\mirrorLocal\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\dsaffo\Documents\mirrorLocal\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_3f8d07f54faad36b9174a84c2071203bfda54ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dsaffo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\dsaffo\Documents\mirrorLocal\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_8bbd977b98ae8547c442df097ffef16737dc6932.jar" />
+    </item>
+
+</items>

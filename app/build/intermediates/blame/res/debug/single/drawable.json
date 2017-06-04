@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_headers_right_fading.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_headers_right_fading.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fog.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\fog.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_playback_progress_bar.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_playback_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cloudy.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\cloudy.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleet.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\sleet.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\partly_cloudy_night.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\partly_cloudy_night.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\train.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snow.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\snow.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_day.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\clear_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rain.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\rain.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wind.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\wind.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cloudy.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\cloudy.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleet.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\sleet.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_playback_progress_bar.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_playback_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_night.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\clear_night.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_onboarding_start_button_background.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_onboarding_start_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rain.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\rain.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bus.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\bus.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umbrella.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\umbrella.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_headers_right_fading.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_headers_right_fading.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\partly_cloudy_day.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\partly_cloudy_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\partly_cloudy_night.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\partly_cloudy_night.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bus.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\bus.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_onboarding_start_button_background.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_onboarding_start_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fog.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\fog.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cloudy.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\cloudy.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_speech_orb.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_onboarding_start_button_background.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_onboarding_start_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_ap.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\news_ap.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_playback_progress_bar.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_playback_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleet.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\sleet.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_speech_orb.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_search_orb.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_search_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_ap.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\news_ap.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_search_orb.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_search_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\train.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rain.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\rain.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snow.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\snow.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\partly_cloudy_night.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\partly_cloudy_night.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\partly_cloudy_day.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\partly_cloudy_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_search_orb.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_search_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_background.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\train.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fog.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\fog.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_background.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_speech_orb.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\partly_cloudy_day.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\partly_cloudy_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_night.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\clear_night.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_day.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\clear_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_background.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umbrella.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\umbrella.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snow.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\snow.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_night.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\clear_night.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wind.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\wind.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bus.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\bus.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_day.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\clear_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_headers_right_fading.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_headers_right_fading.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umbrella.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\umbrella.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wind.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\wind.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_ap.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\drawable\\news_ap.xml"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\lb_control_button_secondary.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable-v21\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\lb_control_button_primary.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable-v21\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\lb_action_bg.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable-v21\\lb_action_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\lb_card_foreground.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable-v21\\lb_card_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\lb_card_foreground.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable-v21\\lb_card_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\lb_control_button_primary.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable-v21\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\lb_action_bg.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable-v21\\lb_action_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\lb_control_button_secondary.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable-v21\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\lb_action_bg.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable-v21\\lb_action_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\lb_control_button_secondary.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable-v21\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\lb_control_button_primary.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable-v21\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\lb_card_foreground.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable-v21\\lb_card_foreground.xml"
+    }
+]

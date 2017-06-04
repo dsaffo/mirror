@@ -10,7 +10,6 @@ import android.widget.TextView;
 import java.util.List;
 import java.util.Locale;
 
-import net.maxbraun.mirror.Body.BodyMeasure;
 import net.maxbraun.mirror.DataUpdater.UpdateListener;
 import net.maxbraun.mirror.Weather.WeatherData;
 
@@ -27,8 +26,21 @@ public class HomeActivity extends Activity {
       R.id.news_1,
       R.id.news_2,
       R.id.news_3,
-      R.id.news_4,
+      //R.id.news_4,
   };
+
+  private static final int[] CTABus_VIEW_IDS = new int[]{
+          R.id.cta_bus_south,
+          R.id.cta_bus_north,
+
+  };
+
+  private static final int[] CTATrain_VIEW_IDS = new int[]{
+          R.id.cta_train_south,
+          R.id.cta_train_north,
+
+  };
+
 
   /**
    * The listener used to populate the UI with weather data.
@@ -92,54 +104,109 @@ public class HomeActivity extends Activity {
     }
   };
 
-  private final UpdateListener<String> timeUpdateListener =
-          new UpdateListener<String>() {
+  private final UpdateListener <List<String>> ctaBusUpdateListener =
+          new UpdateListener <List<String>>() {
             @Override
-            public void onUpdate(String time) {
-              if (time != "") {
-                timeView.setText(time);
-                timeView.setVisibility(View.VISIBLE);
-              }else{
-                timeView.setVisibility(View.GONE);
+            public void onUpdate(List<String> entries) {
+              for (int i = 0; i < 2; i++) {
+                if ((entries != null) && (i < entries.size()) && (entries.get(i).contains("DUE"))) {
+                  ctaBusViews[i].setText(entries.get(i));
+                  ctaBusViews[i].setVisibility(View.VISIBLE);
+                }
+                else if ((entries != null) && (i < entries.size()) && (entries.get(i).contains("DLY"))){
+                  ctaBusViews[i].setText(entries.get(i));
+                  ctaBusViews[i].setVisibility(View.VISIBLE);
+                }
+                else if ((entries != null) && (i < entries.size()) && (entries.get(i).contains("DUE") == false)){
+                  ctaBusViews[i].setText(entries.get(i) + " mins");
+                  ctaBusViews[i].setVisibility(View.VISIBLE);
+                }
+                else {
+                  ctaBusViews[i].setText("STPD");
+                  ctaBusViews[i].setVisibility(View.VISIBLE);
+                }
               }
+
+            }
+          };
+
+  private final UpdateListener <List<String>> ctaTrainUpdateListener =
+          new UpdateListener <List<String>>() {
+            @Override
+            public void onUpdate(List<String> entries) {
+              for (int i = 0; i < 2; i++) {
+                if ((entries != null) && (i < entries.size())) {
+                  ctaTrainViews[i].setText(entries.get(i));
+                  ctaTrainViews[i].setVisibility(View.VISIBLE);
+                }
+
+                else {
+                  ctaTrainViews[i].setText("STPD");
+                  ctaTrainViews[i].setVisibility(View.VISIBLE);
+
+                }
+              }
+
+            }
+          };
+
+  private final UpdateListener <String> quoteUpdateListener =
+          new UpdateListener <String>() {
+            @Override
+            public void onUpdate(String quote) {
+
+                if (quote != null)  {
+                  String Q = quote;
+                  quoteView.setText(Q.substring(0,Q.lastIndexOf("-")));
+                  quoteView.setVisibility(View.VISIBLE);
+                  authorView.setText(Q.substring(Q.lastIndexOf("-")));
+                  authorView.setVisibility(View.VISIBLE);
+                }
+
+                else {
+                  quoteView.setText("ERR");
+                  quoteView.setVisibility(View.VISIBLE);
+                  authorView.setText("ERR");
+                  authorView.setVisibility(View.VISIBLE);
+
+                }
+
+
+
+
             }
           };
 
   /**
    * The listener used to populate the UI with body measurements.
    */
-  private final UpdateListener<BodyMeasure[]> bodyUpdateListener =
-      new UpdateListener<BodyMeasure[]>() {
-        @Override
-        public void onUpdate(BodyMeasure[] bodyMeasures) {
-          if (bodyMeasures != null) {
-            bodyView.setBodyMeasures(bodyMeasures);
-            bodyView.setVisibility(View.VISIBLE);
-          } else {
-            bodyView.setVisibility(View.GONE);
-          }
-        }
-      };
-
-  private TextView timeView;
+  private TextView authorView;
+  private TextView quoteView;
+  private TextView[]ctaTrainViews = new TextView[CTATrain_VIEW_IDS.length];
+  private TextView[] ctaBusViews = new TextView[CTABus_VIEW_IDS.length];
   private TextView temperatureView;
   private TextView weatherSummaryView;
   private TextView precipitationView;
   private ImageView iconView;
   private TextView[] newsViews = new TextView[NEWS_VIEW_IDS.length];
-  private BodyView bodyView;
 
-  private  CTA time;
+  private Quote quote;
+  private CTATrain ctaTrain;
+  private CTABus ctaBus;
   private Weather weather;
   private News news;
-  private Body body;
-  private Util util;
+   Util util;
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_home);
-    timeView = (TextView) findViewById(R.id.Time);
+    for (int i = 0; i < CTABus_VIEW_IDS.length; i++) {
+      ctaBusViews[i] = (TextView) findViewById(CTABus_VIEW_IDS[i]);
+    }
+    for (int i = 0; i < CTATrain_VIEW_IDS.length; i++) {
+      ctaTrainViews[i] = (TextView) findViewById(CTATrain_VIEW_IDS[i]);
+    }
     temperatureView = (TextView) findViewById(R.id.temperature);
     weatherSummaryView = (TextView) findViewById(R.id.weather_summary);
     precipitationView = (TextView) findViewById(R.id.precipitation);
@@ -147,29 +214,37 @@ public class HomeActivity extends Activity {
     for (int i = 0; i < NEWS_VIEW_IDS.length; i++) {
       newsViews[i] = (TextView) findViewById(NEWS_VIEW_IDS[i]);
     }
-    bodyView = (BodyView) findViewById(R.id.body);
-    time = new CTA(timeUpdateListener);
+    quoteView = (TextView) findViewById(R.id.Quote);
+    authorView = (TextView) findViewById(R.id.Author);
+
+    quote = new Quote(quoteUpdateListener);
+    ctaTrain = new CTATrain(ctaTrainUpdateListener);
+    ctaBus = new CTABus(ctaBusUpdateListener);
     weather = new Weather(weatherUpdateListener);
     news = new News(newsUpdateListener);
-    body = new Body(bodyUpdateListener);
+
     util = new Util(this);
   }
 
   @Override
   protected void onStart() {
     super.onStart();
-    time.start();
+    ctaBus.start();
     weather.start();
     news.start();
-    body.start();
+    ctaTrain.start();
+    quote.start();
+
   }
 
   @Override
   protected void onStop() {
-    time.stop();
+    ctaBus.stop();
     weather.stop();
     news.stop();
-    body.stop();
+    ctaTrain.stop();
+    quote.stop();
+
     super.onStop();
   }
 

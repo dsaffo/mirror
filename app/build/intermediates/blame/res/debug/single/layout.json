@@ -1,0 +1,602 @@
+[
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_browse_title.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_browse_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_list_row_hovercard.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_list_row_hovercard.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_controls_row.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_playback_controls_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_action_1_line.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_action_1_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_vertical_grid.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_vertical_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_action_2_lines.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_action_2_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_bar.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_control_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_container.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_row_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_title.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view_themed_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_browse_fragment.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_browse_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_item.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_picker_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_action_2_lines.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_action_2_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_speech_orb.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_badge_left.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view_themed_badge_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_search_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_browse_title.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_browse_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidance.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidance.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_list_row.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_button_secondary.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_compact.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\layout\\activity_home_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_details_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_speech_orb.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_search_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_headers_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_headers_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_separator.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_picker_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_controls_row.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_playback_controls_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_onboarding_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_onboarding_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_title.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view_themed_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_separator.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_picker_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_fullwidth_details_overview.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_fullwidth_details_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_error_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_error_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_shadow.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_fullwidth_details_overview_logo.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_fullwidth_details_overview_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidance.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidance.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_fullwidth_details_overview.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_fullwidth_details_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_container.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_row_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_bar.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_control_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_fragment.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_details_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_title.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view_themed_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_shadow.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedstep_fragment.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedstep_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions_datepicker_item.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedactions_datepicker_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_action_1_line.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_action_1_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_description.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_details_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_orb.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_search_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_list_row_hovercard.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_list_row_hovercard.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_bar.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_controls.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_playback_controls.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_onboarding_fragment.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_onboarding_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_onboarding_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_onboarding_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_content.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view_themed_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_action_2_lines.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_action_2_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_orb.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_search_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_details_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_button_secondary.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_content.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view_themed_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_header.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_row_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_bar.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedstep_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedstep_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedstep_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedstep_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_container.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_row_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_vertical_grid_fragment.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_vertical_grid_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_badge_left.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view_themed_badge_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidance.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidance.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_rows_fragment.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_rows_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_browse_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_browse_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_list_row.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_background_window.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_background_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions_item.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedactions_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_controls.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_playback_controls.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_fullwidth_details_overview.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_fullwidth_details_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_error_fragment.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_error_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_browse_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_browse_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_header.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_column.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_picker_column.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_badge_left.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view_themed_badge_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_button_primary.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_item.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_picker_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_title_view.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_title_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_error_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_error_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_orb.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_search_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_description.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_details_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_fullwidth_details_overview_logo.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_fullwidth_details_overview_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_column.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_picker_column.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_title_view.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_title_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_compact.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\src\\main\\res\\layout\\activity_home_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_badge_right.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view_themed_badge_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_overview.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_details_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedstep_background.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedstep_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_content.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view_themed_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_header.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_background_window.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_background_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_rows_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_rows_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_list_row_hovercard.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_list_row_hovercard.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_description.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_details_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_speech_orb.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_fragment.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_search_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_button_primary.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_overview.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_details_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedbuttonactions.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedbuttonactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_vertical_grid_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_vertical_grid_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_badge_right.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view_themed_badge_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions_item.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedactions_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedstep_background.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedstep_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions_datepicker_item.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedactions_datepicker_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_background_window.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_background_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_list_row.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedstep_background.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedstep_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_overview.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_details_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_shadow.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_compact.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\src\\main\\res\\layout\\activity_home_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_controls.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_playback_controls.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_vertical_grid_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_vertical_grid_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_button_secondary.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_button_primary.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_vertical_grid.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_vertical_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_title_view.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_title_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_controls_row.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_playback_controls_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions_datepicker_item.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedactions_datepicker_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_bar.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_control_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedbuttonactions.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedbuttonactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_headers_fragment.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_headers_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedbuttonactions.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedbuttonactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_vertical_grid.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_vertical_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_header.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_row_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_column.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_picker_column.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_header.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_headers_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_headers_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions_item.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_guidedactions_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_browse_title.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_browse_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_separator.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_picker_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_rows_fragment.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_rows_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_badge_right.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_image_card_view_themed_badge_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_bar.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_action_1_line.xml",
+        "source": "C:\\Users\\David\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_action_1_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_header.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_row_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_fullwidth_details_overview_logo.xml",
+        "source": "C:\\Users\\David\\Documents\\mirror\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_fullwidth_details_overview_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_item.xml",
+        "source": "C:\\Users\\dsaffo\\Documents\\mirrorLocal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\layout\\lb_picker_item.xml"
+    }
+]

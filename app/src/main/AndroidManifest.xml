@@ -28,7 +28,7 @@
         android:icon="@drawable/home"
         android:label="@string/home_name"
         android:launchMode="singleTask"
-        android:screenOrientation="landscape"
+        android:screenOrientation="portrait"
         android:stateNotNeeded="true"
         android:theme="@style/AppTheme">
       <intent-filter android:priority="11">
