@@ -36,4 +36,4 @@ private static final String stop2 = "&stpid=XXXXX";
 # Photos and Frame Guide
  Bellow is a photo of how everything should look onces its up and running. The easiest way to put it all together is to buy a acrylic two way mirror like this one:https://www.amazon.com/12-Acrylic-See-Through-Mirror/dp/B017ONH3EG and to take it and your tablet to your local frame shop. Remeber to explain your project and to make sure they add cut outs for the charging port.
 
-![alt text](http://imgur.com/a/vKNiz "hi")
+![alt text](http://i.imgur.com/14sIoY8.jpg "hi")
